@@ -50,21 +50,21 @@ export const metadata = {
   ],
   authors: [
     {
-      name: "saasfly",
+      name: "condensely ai",
     },
   ],
-  creator: "Saasfly",
+  creator: "David Dragan",
   openGraph: {
     type: "website",
-    locale: "en_US",
+    locale: "en_UK",
     url: siteConfig.url,
     title: siteConfig.name,
     description: siteConfig.description,
     siteName: siteConfig.name,
   },
   icons: {
-    icon: "/logo.svg",
-    shortcut: "/favicon-16x16.png",
+    icon: "/logo.png",
+    shortcut: "/favicon.png",
     apple: "/apple-touch-icon.png",
   },
   metadataBase: new URL("https://show.saasfly.io/"),

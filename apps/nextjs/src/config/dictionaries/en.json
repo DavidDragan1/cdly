@@ -9,9 +9,9 @@
     "monthly_info": "when charged monthly",
     "mo": "/mo",
     "contact": "for to contact our support team.",
-    "contact_2": "You can test the subscriptions and won&apos;t be charged.",
+    "contact_2": "You can test the subscriptions and won't be charged.",
     "faq": "Frequently Asked Questions",
-    "faq_detail": "Explore our comprehensive FAQ to find quick answers to common inquiries. If you need further assistance, don&apos;t hesitate to contact us for personalized help.",
+    "faq_detail": "Explore our comprehensive FAQ to find quick answers to common inquiries. If you need further assistance, don't hesitate to contact us for personalised help.",
     "signup": "Sign up",
     "upgrade": "Upgrade",
     "manage_subscription": "Manage Subscription",
@@ -19,8 +19,8 @@
     "": ""
   },
   "marketing": {
-    "introducing": "Introducing Saasfly",
-    "title": "Saasfly: A new SaaS player? Make things easier.",
+    "introducing": "Introducing Condensely.AI",
+    "title": "Condensely.ai - the all-new, supercharged way to learn ",
     "sub_title": "Your complete All-in-One solution for building SaaS services.",
     "get_started": "Get Started",
     "view_on_github": "View on GitHub",
@@ -52,22 +52,22 @@
     "": ""
   },
   "common": {
-    "copyright": "Copyright © ${currentYear} Nextify Limited. All rights reserved.",
+    "copyright": "Copyright © ${currentYear} Condensely Limited. All rights reserved.",
     "dashboard": {
       "main_nav_documentation": "Documentation",
       "main_nav_support": "Support",
-      "sidebar_nav_clusters": "Clusters",
+      "sidebar_nav_clusters": "Gems",
       "sidebar_nav_billing": "Billing",
       "sidebar_nav_settings": "Settings",
-      "title_text": "Create and manage clusters."
+      "title_text": "Create and manage gems."
     },
     "": ""
   },
   "business": {
     "k8s": {
-      "new_cluster": "New Cluster",
-      "no_cluster_title": "No clusters created",
-      "no_cluster_content": "You don&apos;t have any clusters yet. Start creating cluster. ",
+      "new_cluster": "New Gem",
+      "no_cluster_title": "No gems created",
+      "no_cluster_content": "You don't have any gems yet. Start creating a new gem. ",
       "": ""
     },
     "billing": {
